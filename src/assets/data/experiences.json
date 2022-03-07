@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "01-01-2016",
+        "endAt": "03-12-2020",
+        "companyName": "Blue Chhef Hospitality",
+        "internationalizations": [
+            
+            {
+                "language": "en",
+                "city": "Pune",
+                "country": "India",
+                "role": "Manager",
+                "description": "<b>Blue Chhef Hospitality</b> is a firm focused towards hospatilaty, they have multiple restaurants in Pune <i>driver license</i>, they also had catering and event service for marriages, birthdays and parties etc..<br><br>At <i>Blue Chhef Hospitality</i>, I was working as a manager and data analyst, I used to maintain and update all the purchase, sales and inventory data in the excel sheets adn Google sheets. Also I used to maintian customer relations. It was the start point, a unique opportunity to work in technical as well as on-the-field department."
+            }
+        ],
+        "technologies": [
+        ],
+        "medias": [
+            {
+               
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "01-06-2020",
+        "endAt": "12-11-2021",
+        "companyName": "eClerx Services Limited",
+        "website": "https://eclerx.com//",
+        "logo": "",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Pune",
+                "country": "India",
+                "role": "Technical Support",
+                "description": "<b>eClerx</b> is a company which provides business process management, <i>e-commerce</i>, automation and analytics services to a number of Fortune 2000 enterprises. <i>E-tática</i> I have worked as a technical support for 1 years and 8 months, I was also promoted to team lead/mentor within 1 year and was a consistent top performes for 12 months straight."
+            }
+        ],
+        "technologies": [
+            
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn eClerx",
+                "http": "https://www.linkedin.com/company/eclerx/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook eClerx",
+                "http": "https://www.facebook.com/eclerxservices"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram eClerx",
+                "http": "https://www.instagram.com/eclerxservices/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/rio.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "11-01-2020",
+        "endAt": "",
+        "companyName": "Anemoi Technologies",
+        "website": "https://anemoitechnologies.com/",
+        "logo": "../../assets/template/experience/logo/swisscom-logo.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Pune",
+                "country": "India",
+                "role": "Software Engineer",
+                "description": "<b>Anemoi technologies</b> is the <b>#1</b> rvices range from B2C products, such as <i>Swisscom TV</i>, to B2B IT solutions in multiple industries, such as <i>Banking,</i>.<br><br>In the <i>Swisscom DevOps Center</i> innovation and experimenting are deeply rooted in the DNA of the company. The multicultural environment with 15 nationalities, and a <i>Tribe/Squad</i> culture, contribute to putting us, the employeeous other top technologies."
+            }
+        ],
+        "technologies": [
+            "Java", "Spring Boot", "Angular 13", "Typescript", "Javascript", "MVC", "JUnit","NPM"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Anemoi Technologies",
+                "http": "https://www.linkedin.com/company/anemoi-technologies/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Anemoi Technologies",
+                "http": "https://www.facebook.com/anemoitech"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube Anemoi Technologies",
+                "http": "https://www.youtube.com/channel/UCKvKV1NBvqPilt1sCV8VgSQ"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/rotterdam.jpg"
+    }
+]
